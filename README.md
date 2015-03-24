@@ -1,6 +1,10 @@
-# npm restify 模块种子
+# collect-wu 
 
-    git clone git@github.com:yisbug/npm-seed.git <folder>
-    cd <folder>
-    git checkout restify
-    npm install
+基于node的通用定时http采集模块
+
+
+### 获取采集地址
+get/post
+url
+参数
+
